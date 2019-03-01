@@ -41,3 +41,16 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+cloudinary:
+  cloud_name: terfno-cloudinary
+  only_prod: true
+  verbose: true
+  origin_url: https://terfno.github.io/
+  presets:
+    default:
+      min_width: 320
+      max_width: 1600
+      fallback_max_width: 800
+      steps: 3
+      sizes: "(min-width: 50rem) 50rem, 90vw"
