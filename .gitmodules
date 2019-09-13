@@ -1,0 +1,3 @@
+[submodule "terfno_blog/themes/AllinOne"]
+	path = terfno_blog/themes/AllinOne
+	url = https://github.com/orianna-zzo/AllinOne.git
