@@ -1,4 +1,4 @@
 baseURL = "http://example.org/"
 languageCode = "ja-jp"
 title = "Terfno Desk"
-theme = "AllinOne"
+theme = "kube"
